@@ -42,7 +42,8 @@ for the CISH gene.
 
 There are a few R libraries that need to be installed to run these scripts.
 They are:
-'''
+
+```
 library(dplyr)
 library(reshape2)
 library(ggpubr)
@@ -54,7 +55,8 @@ library(FactoMineR)
 library(stats)
 library(factoextra)
 library(ggfortify)
-'''
+```
+
 NOTE: You must make a directory called "output" in the same directory as all the scripts and files.
 This is where the figures will be saved.
 
