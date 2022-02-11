@@ -7,7 +7,7 @@ and no editing is required to run the scripts. Each script has local data
 that is read in and all output for the figures is automatically put into the
 output directory.
 
-Each R script has a correponding R markdown file that does the same thing.
+Each R script has a corresponding R markdown file that does the same thing.
 The scripts included are the following:
 
 >differentially_abundant_final.R
@@ -63,4 +63,3 @@ This is where the figures will be saved.
 Here is an example of running the scripts:
 
 > Rscript differentially_abundant_final.r
-
