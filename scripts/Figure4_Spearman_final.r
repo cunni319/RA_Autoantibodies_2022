@@ -6,13 +6,13 @@ library("ggplot2")
 ## -----------------------------------------------------------------------------
 #cdai_df2 <- read.csv("/Users/Kevin/Desktop/Grad school docs and past classes/New_RA_Project_code/Github_code/patient_info_table_v3.csv", header = TRUE)
 
-cdai_df2 <- read.csv("/Users/Kevin/Desktop/Grad school docs and past classes/New_RA_Project_code/RA_Autoantibodies_2022/data/patient_info_table_v3_temp.csv", header = TRUE)
+cdai_df2 <- read.csv("../data/patient_info_table_v3.csv", header = TRUE)
 
 #View(cdai_df2)
 
 
 ## -----------------------------------------------------------------------------
-quantile_df <- read.csv("/Users/Kevin/Desktop/Grad school docs and past classes/New_RA_Project_code/RA_Autoantibodies_2022/data/quantile_for_CDAI_scatterplots_temp.csv")
+quantile_df <- read.csv("../data/quantile_for_CDAI_scatterplots.csv")
 #View(quantile_df)
 
 
