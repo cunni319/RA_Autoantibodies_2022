@@ -2,7 +2,7 @@ RA Autoantibodies 2022
 ===================================================
 
 This repository includes several R scripts as well R markdown scripts to run
-for the analysis for this project. The input data in included in the repository
+for the analysis for this project. The input data is included in the repository
 and no editing is required to run the scripts. Each script has local data
 that is read in and all output for the figures is automatically put into the
 output directory.
